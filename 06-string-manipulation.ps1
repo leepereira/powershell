@@ -27,7 +27,7 @@ $variable555 = "jan,feb,mar,apr"
 $variable555.Split(',')
 
 
-$variable777 = "jan,feb,mar,apr;may;jun;july"
+$variable777 = "jan,feb,mar,apr;may;jun;july"  # when data has different delimiters
 $variable777.Split(',').Split(';')
 
 #padding string values
