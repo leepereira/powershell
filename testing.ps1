@@ -11,3 +11,12 @@ function merge ($target, $source) {
     }
   }
 }
+
+
+
+PS /Users/le6u1v0/workspace/non-GAPINC/ADO_Explained/scratch_area> $clusterparam.GetType()
+
+
+IsPublic IsSerial Name                                     BaseType
+-------- -------- ----                                     --------
+True     False    PSCustomObject                           System.Object
